@@ -1,4 +1,34 @@
 {
+  "delete": {
+    "status": "ok",
+    "error": [],
+    "method": "delete",
+    "result": []
+  },
+  "add": {
+    "status": "ok",
+    "error": [],
+    "method": "add",
+    "result": []
+  },
+  "compare": {
+    "status": "ok",
+    "error": [],
+    "method": "compare",
+    "result": [
+      {
+        "score": 99
+      }
+    ]
+  },
+  "count": {
+    "status": "ok",
+    "error": [],
+    "method": "list",
+    "result": [
+      29
+    ]
+  },
   "search": {
     "status": "ok",
     "error": [],
