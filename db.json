@@ -66,6 +66,42 @@
       }
     ]
   },
+  "list": {
+    "status": "ok",
+    "error": [],
+    "method": "list",
+    "result": [
+      "http://localhost/match-images/01.jpg",
+      "http://localhost/match-images/01a.jpg",
+      "http://localhost/match-images/01b.jpg",
+      "http://localhost/match-images/01c.jpg",
+      "http://localhost/match-images/01d.jpg",
+      "http://localhost/match-images/02.jpg",
+      "http://localhost/match-images/03.jpg",
+      "http://localhost/match-images/04.jpg",
+      "http://localhost/match-images/05.jpg",
+      "http://localhost/match-images/06.jpg",
+      "http://localhost/match-images/07.jpg",
+      "http://localhost/match-images/08.jpg",
+      "http://localhost/match-images/09.jpg",
+      "http://localhost/match-images/10.jpg",
+      "http://localhost/match-images/11.jpg",
+      "http://localhost/match-images/12.jpg",
+      "http://localhost/match-images/13.jpg",
+      "http://localhost/match-images/14.jpg",
+      "http://localhost/match-images/15.jpg",
+      "http://localhost/match-images/16.jpg",
+      "http://localhost/match-images/17.jpg",
+      "http://localhost/match-images/18.jpg",
+      "http://localhost/match-images/19.jpg",
+      "http://localhost/match-images/20.jpg",
+      "http://localhost/match-images/21.jpg",
+      "http://localhost/match-images/22.jpg",
+      "http://localhost/match-images/23.jpg",
+      "http://localhost/match-images/24.jpg",
+      "http://localhost/match-images/25.jpg"
+    ]
+  },
   "articles": [
     {
       "_id": "5b21ca3eeb7f6fbccd471815",
